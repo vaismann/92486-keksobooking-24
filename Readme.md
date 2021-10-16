@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Vassili Artemjev](https://up.htmlacademy.ru/javascript/24/user/92486).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Ившин](https://up.htmlacademy.ru/javascript/24/user/818775).
 
 ---
 
