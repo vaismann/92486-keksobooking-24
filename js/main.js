@@ -1,2 +1,4 @@
-import {similarObjects} from './data.js';
+import {createObject} from './data.js';
+
+createObject();
 

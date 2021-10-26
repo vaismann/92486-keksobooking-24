@@ -12,8 +12,6 @@ const PHOTOS = [
   'https://assets.htmlacademy.ru/content/intensive/javascript-1/keksobooking/claire-rendall-b6kAwr1i0Iw.jpg',
 ];
 
-const OBJECT_QNTY = 10;
-
 const createObject = () => {
   const object = {
     author: {
@@ -43,6 +41,4 @@ const createObject = () => {
   return object;
 };
 
-const similarObjects = Array.from({length: OBJECT_QNTY}, createObject);
-
-export {similarObjects};
+export {createObject};
